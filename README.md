@@ -171,22 +171,7 @@ The platform should support:
 4. **Availability Optimization**: Factors in team member availability percentages
 5. **Cost Optimization**: Balances expertise with budget constraints
 
-### Cost Calculation
 
-```python
-# Base rates by expertise level (monthly)
-base_rates = {
-    "Beginner": $5,000,
-    "Intermediate": $8,000,
-    "Advanced": $12,000
-}
-
-# Factors affecting cost
-- Team expertise factor
-- Timeline urgency factor
-- Project complexity factor
-- Technology demand multiplier
-```
 
 ## 🔍 Data Sources
 
