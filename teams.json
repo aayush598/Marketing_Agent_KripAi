@@ -1,0 +1,347 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Frontend Team",
+      "members": [
+        {
+          "id": 101,
+          "name": "John Smith",
+          "role": "Senior Frontend Developer",
+          "skills": [
+            "React",
+            "Angular",
+            "Vue.js",
+            "TypeScript",
+            "CSS",
+            "HTML5",
+            "Redux",
+            "GraphQL",
+            "Jest",
+            "Webpack"
+          ],
+          "expertise_level": "Advanced",
+          "availability": 80,
+          "years_experience": 7,
+          "remote_work": true,
+          "plus_points": [
+            "UI/UX focused",
+            "Performance optimization",
+            "Accessibility expertise"
+          ]
+        },
+        {
+          "id": 102,
+          "name": "Emily Johnson",
+          "role": "Frontend Developer",
+          "skills": [
+            "React",
+            "JavaScript",
+            "CSS",
+            "HTML5",
+            "Bootstrap",
+            "Tailwind"
+          ],
+          "expertise_level": "Intermediate",
+          "availability": 90,
+          "years_experience": 4,
+          "remote_work": true,
+          "plus_points": [
+            "Responsive design specialist",
+            "Strong CSS animations"
+          ]
+        },
+        {
+          "id": 103,
+          "name": "Alex Chen",
+          "role": "Junior Frontend Developer",
+          "skills": ["JavaScript", "React", "HTML5", "CSS"],
+          "expertise_level": "Beginner",
+          "availability": 100,
+          "years_experience": 1,
+          "remote_work": true,
+          "plus_points": ["Fast learner", "Design background"]
+        },
+        {
+          "id": 104,
+          "name": "Sarah Williams",
+          "role": "Frontend Architect",
+          "skills": [
+            "React",
+            "TypeScript",
+            "GraphQL",
+            "Webpack",
+            "Micro-frontends"
+          ],
+          "expertise_level": "Advanced",
+          "availability": 70,
+          "years_experience": 8,
+          "remote_work": true,
+          "plus_points": ["Scalable architecture", "Performance expert"]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Backend Team",
+      "members": [
+        {
+          "id": 201,
+          "name": "Michael Brown",
+          "role": "Backend Architect",
+          "skills": [
+            "Node.js",
+            "Python",
+            "Django",
+            "Flask",
+            "SQL",
+            "MongoDB",
+            "Redis",
+            "GraphQL",
+            "AWS",
+            "Docker"
+          ],
+          "expertise_level": "Advanced",
+          "availability": 70,
+          "years_experience": 10,
+          "remote_work": false,
+          "plus_points": [
+            "System architecture",
+            "Performance optimization",
+            "Security expert"
+          ]
+        },
+        {
+          "id": 202,
+          "name": "Sarah Wilson",
+          "role": "Backend Developer",
+          "skills": [
+            "Java",
+            "Spring Boot",
+            "MySQL",
+            "PostgreSQL",
+            "RESTful APIs"
+          ],
+          "expertise_level": "Intermediate",
+          "availability": 85,
+          "years_experience": 5,
+          "remote_work": true,
+          "plus_points": ["API design", "Database optimization"]
+        },
+        {
+          "id": 203,
+          "name": "David Park",
+          "role": "Backend Developer",
+          "skills": ["Python", "Django", "Flask", "PostgreSQL", "Redis"],
+          "expertise_level": "Intermediate",
+          "availability": 100,
+          "years_experience": 3,
+          "remote_work": true,
+          "plus_points": ["Fast API implementation"]
+        },
+        {
+          "id": 204,
+          "name": "Robert Taylor",
+          "role": "Senior Backend Developer",
+          "skills": ["Node.js", "NestJS", "TypeScript", "MongoDB", "RabbitMQ"],
+          "expertise_level": "Advanced",
+          "availability": 80,
+          "years_experience": 6,
+          "remote_work": true,
+          "plus_points": ["Microservices", "Event-driven architecture"]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "DevOps Team",
+      "members": [
+        {
+          "id": 301,
+          "name": "Lisa Rodriguez",
+          "role": "DevOps Engineer",
+          "skills": [
+            "AWS",
+            "Azure",
+            "Kubernetes",
+            "Docker",
+            "Jenkins",
+            "Terraform",
+            "CI/CD",
+            "Python"
+          ],
+          "expertise_level": "Advanced",
+          "availability": 75,
+          "years_experience": 6,
+          "remote_work": true,
+          "plus_points": ["Infrastructure as code", "Security automation"]
+        },
+        {
+          "id": 302,
+          "name": "Kevin Nguyen",
+          "role": "DevOps Specialist",
+          "skills": [
+            "Docker",
+            "Kubernetes",
+            "AWS",
+            "GitHub Actions",
+            "Bash",
+            "Python"
+          ],
+          "expertise_level": "Intermediate",
+          "availability": 90,
+          "years_experience": 4,
+          "remote_work": true,
+          "plus_points": ["Automated testing", "Container optimization"]
+        },
+        {
+          "id": 303,
+          "name": "Jennifer Lopez",
+          "role": "Cloud Architect",
+          "skills": ["AWS", "Terraform", "Kubernetes", "Serverless", "CI/CD"],
+          "expertise_level": "Advanced",
+          "availability": 60,
+          "years_experience": 8,
+          "remote_work": true,
+          "plus_points": ["Multi-cloud deployments", "Cost optimization"]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Data Team",
+      "members": [
+        {
+          "id": 401,
+          "name": "Emma Martinez",
+          "role": "Data Scientist",
+          "skills": [
+            "Python",
+            "SQL",
+            "TensorFlow",
+            "PyTorch",
+            "Pandas",
+            "Scikit-learn",
+            "R"
+          ],
+          "expertise_level": "Advanced",
+          "availability": 80,
+          "years_experience": 6,
+          "remote_work": true,
+          "plus_points": ["ML model optimization", "NLP expertise"]
+        },
+        {
+          "id": 402,
+          "name": "Thomas Lee",
+          "role": "Data Engineer",
+          "skills": [
+            "Python",
+            "SQL",
+            "Apache Spark",
+            "Hadoop",
+            "Airflow",
+            "AWS"
+          ],
+          "expertise_level": "Intermediate",
+          "availability": 85,
+          "years_experience": 4,
+          "remote_work": true,
+          "plus_points": ["ETL pipeline design", "Big data processing"]
+        },
+        {
+          "id": 403,
+          "name": "Daniel Kim",
+          "role": "Senior Data Engineer",
+          "skills": [
+            "Python",
+            "SQL",
+            "Snowflake",
+            "dbt",
+            "Airflow",
+            "BigQuery"
+          ],
+          "expertise_level": "Advanced",
+          "availability": 75,
+          "years_experience": 7,
+          "remote_work": true,
+          "plus_points": ["Data warehousing", "Data modeling"]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Mobile Team",
+      "members": [
+        {
+          "id": 501,
+          "name": "James Wilson",
+          "role": "iOS Developer",
+          "skills": [
+            "Swift",
+            "Objective-C",
+            "SwiftUI",
+            "Core Data",
+            "Firebase"
+          ],
+          "expertise_level": "Advanced",
+          "availability": 75,
+          "years_experience": 7,
+          "remote_work": true,
+          "plus_points": ["AR/VR development", "Performance optimization"]
+        },
+        {
+          "id": 502,
+          "name": "Sophia Garcia",
+          "role": "Android Developer",
+          "skills": [
+            "Kotlin",
+            "Java",
+            "Android SDK",
+            "Room",
+            "Jetpack Compose",
+            "Firebase"
+          ],
+          "expertise_level": "Advanced",
+          "availability": 80,
+          "years_experience": 6,
+          "remote_work": false,
+          "plus_points": ["Material Design expert", "Animation specialist"]
+        },
+        {
+          "id": 503,
+          "name": "Raj Patel",
+          "role": "Cross-platform Developer",
+          "skills": [
+            "React Native",
+            "Flutter",
+            "JavaScript",
+            "Dart",
+            "Firebase"
+          ],
+          "expertise_level": "Intermediate",
+          "availability": 90,
+          "years_experience": 4,
+          "remote_work": true,
+          "plus_points": ["Single codebase solutions", "Rapid prototyping"]
+        },
+        {
+          "id": 504,
+          "name": "Olivia Martin",
+          "role": "Mobile Architect",
+          "skills": [
+            "React Native",
+            "Flutter",
+            "Swift",
+            "Kotlin",
+            "Mobile CI/CD"
+          ],
+          "expertise_level": "Advanced",
+          "availability": 70,
+          "years_experience": 9,
+          "remote_work": true,
+          "plus_points": ["Cross-platform optimization", "Mobile security"]
+        }
+      ]
+    }
+  ]
+}
